@@ -2,7 +2,6 @@
     "name": "tux-php/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
-    "version": "1.4.0",
     "autoload": {
         "files": [
             "./functions.php"
